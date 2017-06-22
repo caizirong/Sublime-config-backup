@@ -1,0 +1,20 @@
+[
+    { "keys": ["ctrl+u"], "command": "move_to", "args": {"to": "bol", "extend": false} },
+    { "keys": ["ctrl+i"], "command": "move_to", "args": {"to": "eol", "extend": false} },
+    // chrome
+    { "keys": ["shift+1"], "command": "side_bar_files_open_with",
+                "args": {"application": "C:/Program Files (x86)/Google/Chrome/Application/chrome.exe"} },
+
+     { "keys": ["f1"], "command": "side_bar_files_open_with",
+                "args": {"application": "C:/Users/Jon/AppData/Local/CentBrowser/Application/chrome.exe"} },
+
+    { "keys": ["alt+f1"], "command": "side_bar_files_open_with",
+                "args": {"application": "C:/Program Files (x86)/Mozilla Firefox/firefox.exe"} },
+
+
+    { "keys": ["alt+f3"], "command": "side_bar_files_open_with",
+                "args": {"application": "C:/Program Files/Internet Explorer/iexplore.exe"} }
+
+]
+
+

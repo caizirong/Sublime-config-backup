@@ -1,0 +1,5 @@
+{
+  "ha_style": "underlined",
+  "icons": false,
+  // "Filled", "outlined", "none", "underlined" (solid, strippled, squiggly), "colored text" in ST3.
+}

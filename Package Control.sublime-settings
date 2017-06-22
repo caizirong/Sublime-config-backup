@@ -1,0 +1,42 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"1337 Color Scheme",
+		"AdvancedNewFile",
+		"Autoprefixer",
+		"ayu",
+		"Boxy Theme",
+		"Boxy Theme Addon - Font Face",
+		"BracketHighlighter",
+		"Color Highlighter",
+		"ColorPicker",
+		"Emmet",
+		"FuzzyFilePath",
+		"HTML-CSS-JS Prettify",
+		"IMESupport",
+		"Inspired GitHub Color Scheme",
+		"Markdown Extended",
+		"MarkdownLivePreview",
+		"Material Theme",
+		"Material Theme - White Panels",
+		"Monokai Extended",
+		"Package Control",
+		"PackageSync",
+		"SideBarEnhancements",
+		"Skins",
+		"SublimeLinter",
+		"Sync Settings",
+		"SyncedSideBar",
+		"SyncedSidebarBg",
+		"Tag",
+		"Terminal",
+		"Theme - itg.flat",
+		"Theme - Soda",
+		"Theme - Soda SolarizedDark",
+		"Theme - SoDaReloaded"
+	]
+}
